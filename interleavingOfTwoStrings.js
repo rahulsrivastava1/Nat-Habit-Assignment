@@ -28,4 +28,4 @@ function findInterleavings(s1, s2) {
 const str1 = "ABC";
 const str2 = "ACB";
 
-findInterleavings(s1, s2);
+findInterleavings(str1, str2);
